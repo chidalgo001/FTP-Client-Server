@@ -1,0 +1,28 @@
+
+******** Welcome to FTP help ************
+Note: Commands are not case sensitive.
+
+Connect	-------	-Connects to the server hosted on 'localhost'
+Quit	-------	-Logs off current user and disconnects 
+		 	from the server
+Login	-------	-Logs on a user to the server.
+			( login [username] [password] )
+Logout	-------	-Logs out current user.
+Ls	-------	-Lists the contents of the current directory. 
+			( ls [client] | [server] )
+CWD	-------	-Displays the current working directory.
+		 	( cwd [client] | [server] )
+CDUP	-------	-Move up in the from the current working directory. 
+		 	( cdup [client] | [server] )
+CCD	-------	-Changes the client current working directory. 
+		 	( ccd /[dir] )
+SCD 	-------	-Changes the server current working directory.
+		 	( scd /[dir] )
+GET 	-------	-Fetches a file copy from the current directory of 
+			the remote server into the
+			current working directory of the client. 
+		 	( get [file name] )
+PUT	-------	-Places a file copy to into the current working 
+			directory from the client into the
+			current working directory of the server. 
+			( put [file name] )

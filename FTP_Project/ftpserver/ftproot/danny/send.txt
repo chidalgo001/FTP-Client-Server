@@ -1,0 +1,104 @@
+this is all
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+t created by Alicia F Rodriguez Taboada
+', p, __passive='store_false', t=None, u, __user='', v, __version=Tru
+e, w, __pass='')
+
+Anthony is the big boss!!!!!!
+\i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+
+v
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+v
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clien
+i have to say
+for thsi
+ this wirked!!
+Namespace(ALL='store_false', D, __debug='store_false', L, __log='./server/log/ftp_
+client.log', ONLY='store_false', T='./tests/test1.txt', V, __verbose='st
+ore_true', a, __active='store_true', c, __config='./server/conf/sys.cfg', 
+dpr='34500-34999', fp='2129', hn='cnt4713.cs.fiu.edu', info='FTP Clienv
+v
+v
+v
+v
+v
+
+vi have to say
+
+
+THIS IS MY eND

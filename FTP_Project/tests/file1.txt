@@ -1,0 +1,8 @@
+login danny danny456
+pwd client
+logout
+login grace grace123
+pwd server
+cdup server
+scd /danny
+logout

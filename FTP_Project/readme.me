@@ -1,0 +1,26 @@
+Welcome to the read.me file
+
+In order to run. Open a cmd window and start up the server with tcp_server.py
+
+once the server is up. Start up on another msd window the client, tcp_client.py
+
+once the client is up, these commands can be used:
+
+CMD_QUIT = "QUIT"                       #--- quits the server
+CMD_HELP = "HELP"                       #--- displays help file
+CMD_LOGIN = "LOGIN"                     #--- logs in into server
+CMD_LOGOUT = "LOGOUT"                   #--- logs out current user
+CMD_LS = "LS"                           #--- displays contents of CWD
+CMD_DELETE = "DELETE"                   #--- deletes a specific file
+CMD_PWD = "PWD"                         #--- diplays the current working directory
+CMD_CON = "CONNECT"                     #--- connects to the server
+CMD_CDUP = "CDUP"                       #--- moves up in the directory  
+CMD_CCD = "CCD"                         #--- changes the directory in the client side
+CMD_SCD = "SCD"                         #--- changes the directory in the server side
+CMD_RETR = "GET"                        #--- gets a file copy from server CWD into client CWD
+CMD_STOR = "PUT"                        #--- places a file copy from client CWD into server CWD
+CMD_TEST = "TEST"
+CMD_PORT = "PORT"
+
+( some of the requirements from the project were not implemented in this client, one of them being
+the command line parsing )
